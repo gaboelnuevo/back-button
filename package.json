@@ -1,0 +1,23 @@
+{
+  "name": "react-navigation-back-button",
+  "version": "0.3.1",
+  "description": "react navigation custom back button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngjuning/react-navigation-back-button.git"
+  },
+  "keywords": [
+    "react-navigation",
+    "react-native"
+  ],
+  "author": "杨俊宁",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngjuning/react-navigation-back-button/issues"
+  },
+  "homepage": "https://github.com/youngjuning/react-navigation-back-button#readme"
+}
